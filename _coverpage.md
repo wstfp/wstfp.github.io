@@ -4,6 +4,6 @@
 
 > 👻 欢迎来到往生堂公报
 
-![](_media/wst.png)
+![](https://teahousegroup.github.io/assets/images/wst.png)
 
 ![color](#f0f0f0)
